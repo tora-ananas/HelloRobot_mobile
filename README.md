@@ -1,6 +1,7 @@
 # HelloRobot_mobile app
 #### The main goal of the project is to create an android app to control mini-robot
-
+###
+#### In order to start application, you need a running SocketServer, which you can find at the link: [SocketServer](https://github.com/tora-ananas/Socket-chat-master)
 ## Demo
 
 #### OUR ROBOT LOOK LOKE THAT-> 
@@ -23,8 +24,6 @@
 ###
 #### There are two sockets in my android app. First socket responsible for transferring commands, second one responsible for transferring images in bytes. 
 #### I use Bitmap to create image from bytes and then update ImageView
-###
-#### In order to start application, you need a running SocketServer, which you can find at the link: [SocketServer](https://github.com/tora-ananas/Socket-chat-master)
 ###
 ### Author
 #### [tora_ananas](https://github.com/tora-ananas) control robot app developer
