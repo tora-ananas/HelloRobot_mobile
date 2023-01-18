@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HelloRobot</string>
+    <string name="red">RED</string>
+    <string name="orange">ORANGE</string>
+    <string name="green">GREEN</string>
+    <string name="about_title">
+        ControlRobot!
+    </string>
+    <string name="title_activity_cam">CamActivity</string>
+    <!-- Strings used for fragments for navigation -->
+</resources>
